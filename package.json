@@ -1,0 +1,18 @@
+{
+  "name": "compgensr_",
+  "main": "./lib/compgen",
+  "version": "1.0.0",
+  "description": "Component generator for sr_",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "compgen:toggle"
+  },
+  "repository": "https://git.cloud.flip.me/f000/front-end-comp-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.7"
+  }
+}

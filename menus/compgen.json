@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle compgen",
+        "command": "compgen:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Component Generator",
+          "submenu": [
+            {
+              "label": "Add Component",
+              "command": "compgen:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
