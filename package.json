@@ -1,7 +1,7 @@
 {
   "name": "compgensr_",
   "main": "./lib/compgen",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Component generator for sr_",
   "keywords": [],
   "activationCommands": {
