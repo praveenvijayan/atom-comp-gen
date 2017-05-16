@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "compgen:toggle"
   },
-  "repository": "https://git.cloud.flip.me/f000/front-end-comp-atom",
+  "repository": "https://github.com/praveenvijayan/atom-comp-gen.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
